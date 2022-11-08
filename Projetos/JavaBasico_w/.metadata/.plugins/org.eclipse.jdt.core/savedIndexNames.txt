@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\kaue.silva\OneDrive - LCS LINK\Documentos\programação\GitHub\repositorios\JavaBasico\.metadata\.plugins\org.eclipse.jdt.core
+3219656564.index
+366895515.index
+1865797976.index
